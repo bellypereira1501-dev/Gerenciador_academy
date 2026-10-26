@@ -1,0 +1,5 @@
+Alunos = []
+Nomes = []
+Planos = []
+Valores = []
+Pagamentos = []

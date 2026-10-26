@@ -1,0 +1,33 @@
+{
+    "alunos": [
+        {
+            "nome": "fabia",
+            "idade": "18",
+            "telefone": "0000000",
+            "plano": "Plano Premium",
+            "valor": "199.90"
+        },
+        {
+            "nome": "luna",
+            "idade": "30",
+            "telefone": "99939393",
+            "plano": "Plano Premium",
+            "valor": "199.90"
+        },
+        {
+            "nome": "Bob",
+            "idade": "18",
+            "telefone": "0000000000",
+            "plano": "Plano Premium",
+            "valor": "199.90"
+        },
+        {
+            "nome": "Barbie",
+            "idade": "13",
+            "telefone": "000000000",
+            "plano": "Plano Básico",
+            "valor": "99.90"
+        }
+    ],
+    "pagamentos": []
+}
